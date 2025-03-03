@@ -27,7 +27,7 @@ URL: https://www.r-project.org,
     https://github.com/stemangiola/tidyHeatmap
 BugReports: https://github.com/stemangiola/tidyHeatmap/issues
 Depends: 
-    R (>= 4.3.0)
+    R (>= 4.2.0)
 Imports: 
     methods,
     stats,
